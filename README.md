@@ -1,1 +1,1 @@
-# emotion
+[小嘉的部落格](https://blog.imzjw.cn) 表情仓库
