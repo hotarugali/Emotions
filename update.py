@@ -50,6 +50,8 @@ def update(args, config):
                         src_path = os.path.join(root, file)
                         dst_path = os.path.join(root, newname + suffix)
                         os.rename(src_path, dst_path)
+    
+    # 
 
 
 if __name__=="__main__":
